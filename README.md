@@ -1,4 +1,4 @@
-WordChunks Word Game
+WordChunks: Riddle Game
 ====================
 
 <img src='https://github.com/jkozh/WordChunks/blob/master/images/mockup-new.jpg'>
