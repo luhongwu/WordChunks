@@ -53,4 +53,8 @@ class StoreDialog : DialogFragment() {
         dialog.setCanceledOnTouchOutside(false)
         return view
     }
+
+    interface StoreDialogListener {
+        fun onRewardUser()
+    }
 }

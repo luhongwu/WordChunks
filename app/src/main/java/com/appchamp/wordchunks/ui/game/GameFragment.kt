@@ -32,10 +32,10 @@ import com.appchamp.wordchunks.extensions.visible
 import com.appchamp.wordchunks.ui.customviews.StoreDialog
 import com.appchamp.wordchunks.ui.game.adapters.ChunksAdapter
 import com.appchamp.wordchunks.ui.game.adapters.WordsAdapter
+import com.appchamp.wordchunks.ui.smallbang.SmallBang
 import com.appchamp.wordchunks.util.Constants.CHUNKS_GRID_NUM
 import com.appchamp.wordchunks.util.Constants.WORDS_GRID_NUM
 import kotlinx.android.synthetic.main.frag_game.*
-import xyz.hanks.library.SmallBang
 
 
 class GameFragment : LifecycleFragment() {

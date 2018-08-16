@@ -28,12 +28,12 @@ import com.appchamp.wordchunks.R
 import com.appchamp.wordchunks.ui.customviews.StoreDialog
 import com.appchamp.wordchunks.ui.game.GameActivity
 import com.appchamp.wordchunks.ui.packs.PacksActivity
+import com.appchamp.wordchunks.ui.smallbang.SmallBang
 import com.appchamp.wordchunks.util.Constants
 import kotlinx.android.synthetic.main.frag_main.*
 import org.jetbrains.anko.clearTop
 import org.jetbrains.anko.intentFor
 import org.jetbrains.anko.share
-import xyz.hanks.library.SmallBang
 
 
 class MainFragment : LifecycleFragment() {
